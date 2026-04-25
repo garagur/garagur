@@ -29,7 +29,7 @@ Sou formado em **Eletrotécnica** e atualmente estou cursando **Análise e Desen
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**Sistemas Operacionais**
+**Entusiasta por Linux**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![KDE](https://img.shields.io/badge/KDE-1C71B8?style=for-the-badge&logo=kde&logoColor=white)
