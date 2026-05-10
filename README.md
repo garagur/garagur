@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor & Técnico em Eletrotécnica
 
-Sou formado em **Eletrotécnica** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**. tentando nao enloquecer com informatica e a cada dia pior :)
+Sou formado em **Eletrotécnica** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**. tentando nao enlouquecer com rotas de api quebradas, mentalmente cada dia pior :)
 
 ---
 
