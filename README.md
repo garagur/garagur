@@ -37,16 +37,6 @@ Sou formado em **Eletrotécnica** e atualmente estou cursando **Análise e Desen
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garagur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garagur&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
 ---
 
 ### Minhas redes Sociais:
