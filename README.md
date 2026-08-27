@@ -41,5 +41,5 @@ Sou formado em **Eletrotécnica** e atualmente estou cursando **Análise e Desen
 
 ### Minhas redes Sociais:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/d.vivaldi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/d.vivaldi.brasil)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/4PWD2BEhm)
